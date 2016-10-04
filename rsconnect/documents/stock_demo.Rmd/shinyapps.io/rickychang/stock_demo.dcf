@@ -1,0 +1,9 @@
+name: stock_demo
+account: rickychang
+server: shinyapps.io
+appId: 125643
+bundleId: 571221
+url: https://rickychang.shinyapps.io/stock_demo/
+when: 1475084941.44602
+asMultiple: FALSE
+asStatic: FALSE
